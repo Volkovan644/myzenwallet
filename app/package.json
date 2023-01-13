@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "html-webpack-plugin": "^5.5.0"
+    "html-webpack-plugin": "^2.29.0"
   }
 }
